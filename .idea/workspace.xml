@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f11af3-5024-4264-b27d-ade6961fc0d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Partie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Partie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PartieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PartieTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b2f11af3-5024-4264-b27d-ade6961fc0d7" name="Changes" comment="Project Finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,8 +108,16 @@
       <workItem from="1651771906863" duration="2047000" />
       <workItem from="1651773991187" duration="6744000" />
       <workItem from="1651951915368" duration="1635000" />
-      <workItem from="1651954408953" duration="6411000" />
+      <workItem from="1651954408953" duration="6721000" />
     </task>
+    <task id="LOCAL-00001" summary="Project Finished">
+      <created>1651960975134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651960975134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +133,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
